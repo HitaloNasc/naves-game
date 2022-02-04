@@ -13,10 +13,10 @@ O jogo deve conter:
 - A nave do jogador deve efetuar disparos usando a tecla D;
 - A nave do jogador deve se deslocar para cima com a tecla W;
 - A nave do jogador deve se deslocar para baixo com a tecla S;
-- Ao serem atigindos por disparos, os obstáculos devem explodir e contar pontos;
-- Ao atigirem a nave do jogador, os obstáculo devem explodir e abater 1 (um) de energia da barra de vida do jogador;
+- Ao serem atingidos por disparos, os obstáculos devem explodir e contar pontos;
+- Ao atingirem a nave do jogador, os obstáculo devem explodir e abater 1 (um) de energia da barra de vida do jogador;
 - Ao colidir com um obstáculo amigo ocorre um resgate, 1 (um) ponto de resgate para cada resgate;
-- Ao colidir ocm um obstáculo inimigo, o obstáculo amigo é perdido e uma pontuação de 1 (um) perdidos é contada;
+- Ao colidir com um obstáculo inimigo, o obstáculo amigo é perdido e uma pontuação de 1 (um) perdidos é contada;
 - Sem barras de energia o jogador perde o jogo.
 
 ### Tecnologias utilizadas
