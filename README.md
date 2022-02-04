@@ -3,7 +3,7 @@
 ## Descrição
 Esse projeto foi realizado em participação de bootcamps na Digital Innovation One.
 
-![image](https://user-images.githubusercontent.com/54161035/151269771-473b1588-3402-4370-a0b4-fa106ca2f5cb.png)
+<img height="350" src="https://user-images.githubusercontent.com/54161035/151269771-473b1588-3402-4370-a0b4-fa106ca2f5cb.png">
 
 ### Necessidade apresentada
 O jogo deve conter:
